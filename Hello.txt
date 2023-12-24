@@ -1,5 +1,5 @@
-print("hello")
-print("hello vsem")
-print("hello")
-print("hello my friend")
-print("WOW")
+print("hello");
+print("hello vsem");
+print("hello");
+print("hello my friend");
+print("WOW");
